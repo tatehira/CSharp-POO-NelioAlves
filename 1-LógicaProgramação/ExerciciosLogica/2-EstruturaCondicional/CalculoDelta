@@ -1,0 +1,32 @@
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("calculo da Formula de Baskara! ");
+        Console.ReadLine();
+        Console.Clear();
+        Console.WriteLine("Digite o Primeiro numero da raiz: ");
+        double n1 = double.Parse(Console.ReadLine());
+
+        Console.WriteLine("Digite o Segundo Numero da raiz: ");
+        double n2 = double.Parse(Console.ReadLine());
+
+        Console.WriteLine("Digite o Terceiro Numero da raiz: ");
+        double n3 = double.Parse(Console.ReadLine());
+
+        double delta = Math.Pow(n2, 2.0) - 4 * n1 * n3;
+
+        if (n1 == 0 || delta < 0.0)
+        {
+            Console.WriteLine("Impossivel Calcular! ");
+        }
+        else
+        {
+            double res1, res2;
+            res1 = (-n2 + Math.Sqrt(delta)) / (2.0 * n1);
+            res2 = (-n2 - Math.Sqrt(delta)) / (2.0 * n1);
+            Console.WriteLine("Resultado 1 = " + res1.ToString("F5"));
+            Console.WriteLine("Resultado 2 = " + res2.ToString("F5"));
+        }
+    }
+}

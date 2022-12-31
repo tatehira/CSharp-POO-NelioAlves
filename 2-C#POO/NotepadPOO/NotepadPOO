@@ -1,0 +1,151 @@
+******************
+-C# POO + project-
+******************
+	Pilares do curso:
+		- POO
+		- C#
+		- teoria e praticas
+
+Nivelamento:
+************
+	- basic
+		- Introdução a C# e .NET
+		- recap. lógica C#
+		- Classes, atributos, métodos, membros estáticos
+		- Construtores, palavra this, sobrecarga, encapsulamento
+		- Comportamento de memory, array e listas
+
+	- intermediary
+		- Enumerações, composição
+		- Herança e polimorfirmo
+		- Tratamento de exceções
+
+	- Avançado
+		- Trabalhando com arquivos
+		- Interfaces
+		- gererics, set e dictionary
+		- Tipicos especiais em C#
+		Expressões lambda, delegates, linq
+
+	- Comercial -Libs /frameworks
+		- Padrão de camadas, MVC, BD, ORM, GUI, CRU
+		- ASP .NET core, entity Framework core
+
+	O que um desenvolvedor precisa saber?
+		-> Fundamentals
+			- Lógica de programação
+			- Estrutura de dados
+			- POO
+			- BD
+			- Analise e Designer de sistemas
+
+		-> Comercial  
+			- BackEnd
+			- Web
+			- Mobile
+			- Desktop
+			- Games
+
+		Quais cursos fazer?
+			- Lógica em C#
+			- POO em C#
+			- BD (livro: Fund. de BD, modelagem, projeto e linguem SQL - Guimarães)
+			- Modelagem de dados UML (analise & Projetos POO)
+
+Diferença entre C# e .NET
+*************************
+	-> C#: Uma linguagem de programação (regras sintáticas)
+	
+	-> .NET (2002): Uma plataforma de desenvolvimento para se criar diversos tipos de aplicaçoes, podendo usar várias linguagens de programação.
+
+
+Diferenças entre: .Net
+**********************
+	-> .NET standard
+		- Open souce
+		- Especificacao do .NET
+
+	-> .NET framework
+		- windows 
+		- Não Open Source
+		- Criar app windows desktop e apps web ASP.NET rodando sobre iis
+
+	-> Mono
+		- Criar apps e jogos multiplataforma
+
+	-> Xamarim
+		- Usado para criar apps moveis hibridos IOS e android e apps desktop macos
+
+	-> .NET Core
+		- Criar apps modo console multiplataformas
+		- Criar apps web asp.net core e serviços para nuvem
+
+Compilação e Interpretação
+**************************
+	- Quando um programador escreve um código, ele escreve o código fonte atraves de uma linguem de programação
+	- Esse código não é compreendido pelo computador, para ser compreendido, ele precisa de dois processos:
+
+	Compilação & Interpretação
+	--------------------------
+		- Linguagens compiladas: C, C++
+		- Linguagens interporetadas: PHP, JavaScript
+		- Linguagens pré -compiladas + VM: Java, C#
+
+		O que é compitador?
+			- Programador escreve o código para ser executado no S.O
+			- Cada compilador é diferente em diferentes S.O
+			- Traduz um programa de uma linguagem textual
+
+		O que é interpretador?
+			- Leem um código fonte de uma linguagem de programação interpretada e o converte em código executável
+			-  Seu funcionamento pode variar de acordo com a implementação.
+			- O interpretador ao contrário do compilador roda o código-fonte escrito como sendo o código objeto, ele traduz o programa linha a linha, o programa vai sendo utilizado na medida em que vai sendo traduzido. Cada execução do programa precisa ser novamente traduzido e interpretado.
+			- O mesmo codigo pode ser usado em diferentes plataformas pois não é compilado
+
+		O que é linguagem Hibrida?
+			- Ela é pré-compilada e gera um ByteCode em uma linguagem intermediaria
+			- Ele funciona em VM, ex(.NET CLR para windows)
+			- Roda em diferentes SO
+
+		Como funciona o C#?
+			1- Programador escreve o código
+			2- Passa pelo processo de pré-compilação e gerá um código na linguagem intermeriaria
+			3- Esse Codigo gerado roda em cima de uma VM (.NET)
+			4- Convertido em código do computador
+
+Estrutura de uma aplicação C#
+*****************************
+	- Uma aplicação construida em uma estrutura POO é composta por um conjunto de:
+		-> classes
+			- Podem ser agrupadas em NAMESPACES
+
+		-> Namespace
+			- Agrupamento de classes relacionadas uma a outra
+			- Em uma aplicação posso ter classes que representam a entidade de negocio
+				- Produtos, clientes ou seja, dados que o sistema deve armazenados. Esse conjuntos de classes podem ser agrupadas em um namespace chamado ENTITIES(entidades)
+
+		-> Entities (Entidades)
+			- Namespaces que possui diversas classes agrupadas
+
+		-> Services
+			- Classes agrupadas com serviços do sistema
+
+		-> Repositories
+			- Classses agrupadas com acesso dados
+
+		Assembly(DLL ou EXE)
+			- Agrupamento fisico de classes relaciodadas(biuld)
+			
+			EX: Sistema grande divido em sub-prejetos, no qual
+				- Assembly financeiro:
+					- Entidades, Services e Repositories financeiro
+
+		Aplicação
+			- Agrupamento de assemblies relacionados
+
+			- Nomes usados no VS Studio
+				- Aplicacao: Solution
+				- Assembly: Project
+
+			EX: Sistema de comercio eletronico:
+				- Agrupado por varios assemblys
