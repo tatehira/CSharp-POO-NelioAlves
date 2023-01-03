@@ -149,3 +149,35 @@ Estrutura de uma aplicação C#
 
 			EX: Sistema de comercio eletronico:
 				- Agrupado por varios assemblys
+
+Estrutura da linguagem
+**********************
+
+	using System;
+	Namespace PrimeiroPrograma
+	{
+		class Program
+		{
+			Programprivate static void Main(string[] args)
+	    	{
+	    		Console.WriteLine("Hello")
+			}
+		}	
+	{
+
+	using: namespaces do sistema. Ex que está arquivado: Console.WrioteLine
+	namespace: 
+		- Por padrão vem com nome do arquivo
+		- Não obrigatorio
+
+	Class:
+		- Sempre o programa está em alguma classe
+		- Obrigatorio
+		- Pode usar qualquer nome
+		- Linguagem basica das OO
+
+		static void Main(string[] args)
+			- membros da classe
+			- Usado para indicar o endpoint(entradas) do C#
+			- Evuta recriar recursos de aplicativos que já existem
+    
