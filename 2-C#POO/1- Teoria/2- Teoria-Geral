@@ -33,13 +33,27 @@ Classes
 		x = new Triangulo();
 
 	Criação de variavel
+	-------------------
 		- Ao criar uma variavel comum, ela fica na area stack'[]' da memória
 			- stack: estática
 
 	Criação de instancia de objeto
-	EX: X = new Triangulo();
-		- Ao instanciar um objeto, ele aloca espaço na memoria HEAP'()', contendo o endereço 
-			- HEAP: Alocação de memoria de forma dinamica
-			- Quando é alocado um espaço na HEAP, o endereço desse espaço está na Vaiavel comum
-			- [VAR: X] ----> (A,B,C)
-				- X é referencia do objeto
+	------------------------------
+		EX: X = new Triangulo();
+			- Ao instanciar um objeto, ele aloca espaço na memoria HEAP'()', contendo o endereço 
+				- HEAP: Alocação de memoria de forma dinamica
+				- Quando é alocado um espaço na HEAP, o endereço desse espaço está na Vaiavel comum
+				- [VAR: X] ----> (A,B,C)
+					- X é referencia do objeto
+
+
+	Acessar/Inserir - Instancia
+	---------------------------
+		Propriedade.Atributo
+		ex atribuir uma cor ao mouse: 
+			Computador
+				Mouse.Cor
+					Mouse.Cor = 'Preto'
+
+
+
