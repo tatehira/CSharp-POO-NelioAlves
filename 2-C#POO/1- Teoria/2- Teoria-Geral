@@ -1,0 +1,45 @@
+***********************
+------ Curso POO ------
+***********************
+
+Classes
+-------
+	-> É um tipo estruturado que pode conter membros
+		- Atributos (dados / campos)
+		- Métodos (funções / operações)
+
+	-> Recursos de uma classe:
+		- Contrutores
+		- Sobrecarga
+		- Encapsulamento
+		- Polimorfismo
+
+	Exemplos:
+		- Entidade: Produto, Cliente, Triangulo
+		- Serviços: ProdutoService, CLienteService. EmailService
+		- Controladores: ProdutoController, ClienteController
+		- Utilitário: Calculadora, Compactador
+		- Outros(repositorios, gereciadores)
+
+		Exemplo 1: 
+		- Em vez de criar dois triangulos assim:
+			1-	xA, xB, xC
+			2-	yA, yB, yC
+		- Desse modo, foi usado 6 variaveis para criar 2 triangulos completos
+
+
+	Na poo, podemos criar uma classe com nome Triangulo, definindo 2 Atributos(no caso o triangulo) que possuem 3 Métodos cada(lados)
+		y = new Triangulo();
+		x = new Triangulo();
+
+	Criação de variavel
+		- Ao criar uma variavel comum, ela fica na area stack'[]' da memória
+			- stack: estática
+
+	Criação de instancia de objeto
+	EX: X = new Triangulo();
+		- Ao instanciar um objeto, ele aloca espaço na memoria HEAP'()', contendo o endereço 
+			- HEAP: Alocação de memoria de forma dinamica
+			- Quando é alocado um espaço na HEAP, o endereço desse espaço está na Vaiavel comum
+			- [VAR: X] ----> (A,B,C)
+				- X é referencia do objeto

@@ -1,0 +1,10 @@
+	Exemplo 1: 
+		- Em vez de criar dois triangulos assim:
+			1-	xA, xB, xC
+			2-	yA, yB, yC
+		- Desse modo, foi usado 6 variaveis para criar 2 triangulos completos
+
+
+	Na poo, podemos criar uma classe com nome Triangulo, definindo 2 Atributos(no caso o triangulo) que possuem 3 Métodos cada(lados)
+		x = new Triangulo();
+		y = new Triangulo();
