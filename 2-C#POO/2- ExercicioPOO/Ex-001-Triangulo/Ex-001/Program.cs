@@ -4,22 +4,24 @@
     {
         static void Main(string[] args)
         {
-            double xA, xB, xC, yA, yB, yC;
+            //double xA, xB, xC, yA, yB, yC; 
+
+            Triangulo x, y = new Triangulo();
 
             Console.Write("Entre com as medidas do triangulo X: ");
-            xA = double.Parse(Console.ReadLine());
-            xB = double.Parse(Console.ReadLine());
-            xC = double.Parse(Console.ReadLine());
+            x.A = double.Parse(Console.ReadLine());
+            x.B = double.Parse(Console.ReadLine());
+            x.C = double.Parse(Console.ReadLine());
             Console.Clear();
 
             Console.Write("Entre com as medidas do triangulo y: ");
-            yA = double.Parse(Console.ReadLine());
-            yB = double.Parse(Console.ReadLine());
-            yC = double.Parse(Console.ReadLine());
+            y.A = double.Parse(Console.ReadLine());
+            y.B = double.Parse(Console.ReadLine());
+            y.C = double.Parse(Console.ReadLine());
             Console.Clear();
 
-            Console.WriteLine($"Medida do triangulo X: {xA}, {xB} E {xC}");
-            Console.WriteLine($"Medida do triangulo y: {yA}, {yB} E {yC}");
+            Console.WriteLine($"Medida do triangulo X: {x.A}, {x.B} E {x.C}");
+            Console.WriteLine($"Medida do triangulo y: {y.A}, {y.B} E {y.C}");
         }
     }
 }
