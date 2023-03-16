@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex-003-MediaSalario/1.0.0": {
+        "runtime": {
+          "Ex-003-MediaSalario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex-003-MediaSalario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

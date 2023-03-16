@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\bin\Debug\net6.0\Ex-005-UsandoMetodo.exe
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\bin\Debug\net6.0\Ex-005-UsandoMetodo.deps.json
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\bin\Debug\net6.0\Ex-005-UsandoMetodo.runtimeconfig.json
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\bin\Debug\net6.0\Ex-005-UsandoMetodo.dll
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\bin\Debug\net6.0\Ex-005-UsandoMetodo.pdb
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\Ex-005-UsandoMetodo.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\Ex-005-UsandoMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\Ex-005-UsandoMetodo.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\Ex-005-UsandoMetodo.AssemblyInfo.cs
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\Ex-005-UsandoMetodo.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\Ex-005-UsandoMetodo.dll
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\refint\Ex-005-UsandoMetodo.dll
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\Ex-005-UsandoMetodo.pdb
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\Ex-005-UsandoMetodo.genruntimeconfig.cache
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-005-UsandoMetodo\Ex-005-UsandoMetodo\obj\Debug\net6.0\ref\Ex-005-UsandoMetodo.dll

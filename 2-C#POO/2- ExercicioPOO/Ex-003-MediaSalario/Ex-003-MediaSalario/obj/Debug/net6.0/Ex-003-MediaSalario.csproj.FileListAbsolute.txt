@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\bin\Debug\net6.0\Ex-003-MediaSalario.exe
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\bin\Debug\net6.0\Ex-003-MediaSalario.deps.json
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\bin\Debug\net6.0\Ex-003-MediaSalario.runtimeconfig.json
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\bin\Debug\net6.0\Ex-003-MediaSalario.dll
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\bin\Debug\net6.0\Ex-003-MediaSalario.pdb
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\Ex-003-MediaSalario.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\Ex-003-MediaSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\Ex-003-MediaSalario.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\Ex-003-MediaSalario.AssemblyInfo.cs
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\Ex-003-MediaSalario.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\Ex-003-MediaSalario.dll
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\refint\Ex-003-MediaSalario.dll
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\Ex-003-MediaSalario.pdb
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\Ex-003-MediaSalario.genruntimeconfig.cache
+C:\Users\wendrew.nick\Documents\1- Nick Arquivos\C# - POO\Ex-003-MediaSalario\Ex-003-MediaSalario\obj\Debug\net6.0\ref\Ex-003-MediaSalario.dll
