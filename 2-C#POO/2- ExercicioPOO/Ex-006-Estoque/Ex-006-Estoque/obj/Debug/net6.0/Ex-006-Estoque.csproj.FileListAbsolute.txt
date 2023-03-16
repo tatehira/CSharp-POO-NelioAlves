@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\bin\Debug\net6.0\Ex-006-Estoque.exe
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\bin\Debug\net6.0\Ex-006-Estoque.deps.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\bin\Debug\net6.0\Ex-006-Estoque.runtimeconfig.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\bin\Debug\net6.0\Ex-006-Estoque.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\bin\Debug\net6.0\Ex-006-Estoque.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\Ex-006-Estoque.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\Ex-006-Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\Ex-006-Estoque.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\Ex-006-Estoque.AssemblyInfo.cs
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\Ex-006-Estoque.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\Ex-006-Estoque.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\refint\Ex-006-Estoque.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\Ex-006-Estoque.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\Ex-006-Estoque.genruntimeconfig.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-006-Estoque\Ex-006-Estoque\obj\Debug\net6.0\ref\Ex-006-Estoque.dll

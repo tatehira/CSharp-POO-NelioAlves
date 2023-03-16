@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex-006-Estoque/1.0.0": {
+        "runtime": {
+          "Ex-006-Estoque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex-006-Estoque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
