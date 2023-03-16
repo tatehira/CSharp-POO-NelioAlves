@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\bin\Debug\net6.0\Ex-007-CalculoRetangulo.exe
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\bin\Debug\net6.0\Ex-007-CalculoRetangulo.deps.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\bin\Debug\net6.0\Ex-007-CalculoRetangulo.runtimeconfig.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\bin\Debug\net6.0\Ex-007-CalculoRetangulo.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\bin\Debug\net6.0\Ex-007-CalculoRetangulo.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\Ex-007-CalculoRetangulo.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\Ex-007-CalculoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\Ex-007-CalculoRetangulo.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\Ex-007-CalculoRetangulo.AssemblyInfo.cs
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\Ex-007-CalculoRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\Ex-007-CalculoRetangulo.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\refint\Ex-007-CalculoRetangulo.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\Ex-007-CalculoRetangulo.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\Ex-007-CalculoRetangulo.genruntimeconfig.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-007-CalculoRetangulo\Ex-007-CalculoRetangulo\obj\Debug\net6.0\ref\Ex-007-CalculoRetangulo.dll
