@@ -23,10 +23,7 @@ namespace Ex_007_CalculoRetangulo
             retangulo.Largura = double.Parse(Console.ReadLine());
             Console.Clear();
 
-            Console.WriteLine("DADOS DO RETANGULO: ");
-            Console.WriteLine($"Area: {retangulo.Area}");
-            Console.WriteLine($"Perimetro: {retangulo.Perimetro}");
-            Console.WriteLine($"Diagonal: {retangulo.Diagonal}");
+            Console.WriteLine($"DADOS DO RETANGULO: {retangulo}");
             Console.ReadKey();
         }
     }
