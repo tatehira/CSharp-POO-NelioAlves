@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\bin\Debug\net6.0\Ex-009-NotaAlunos.exe
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\bin\Debug\net6.0\Ex-009-NotaAlunos.deps.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\bin\Debug\net6.0\Ex-009-NotaAlunos.runtimeconfig.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\bin\Debug\net6.0\Ex-009-NotaAlunos.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\bin\Debug\net6.0\Ex-009-NotaAlunos.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\Ex-009-NotaAlunos.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\Ex-009-NotaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\Ex-009-NotaAlunos.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\Ex-009-NotaAlunos.AssemblyInfo.cs
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\Ex-009-NotaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\Ex-009-NotaAlunos.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\refint\Ex-009-NotaAlunos.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\Ex-009-NotaAlunos.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\Ex-009-NotaAlunos.genruntimeconfig.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-009-NotaAlunos\Ex-009-NotaAlunos\obj\Debug\net6.0\ref\Ex-009-NotaAlunos.dll
