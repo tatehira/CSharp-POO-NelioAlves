@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\Construtor.exe
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\Construtor.deps.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\Construtor.runtimeconfig.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\Construtor.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\Construtor.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\Construtor.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\Construtor.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\Construtor.AssemblyInfo.cs
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\Construtor.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\Construtor.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\refint\Construtor.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\Construtor.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\Construtor.genruntimeconfig.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\ref\Construtor.dll

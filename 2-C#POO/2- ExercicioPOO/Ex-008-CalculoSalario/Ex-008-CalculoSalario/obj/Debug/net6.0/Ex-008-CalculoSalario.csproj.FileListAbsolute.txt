@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\bin\Debug\net6.0\Ex-008-CalculoSalario.exe
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\bin\Debug\net6.0\Ex-008-CalculoSalario.deps.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\bin\Debug\net6.0\Ex-008-CalculoSalario.runtimeconfig.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\bin\Debug\net6.0\Ex-008-CalculoSalario.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\bin\Debug\net6.0\Ex-008-CalculoSalario.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\Ex-008-CalculoSalario.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\Ex-008-CalculoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\Ex-008-CalculoSalario.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\Ex-008-CalculoSalario.AssemblyInfo.cs
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\Ex-008-CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\Ex-008-CalculoSalario.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\refint\Ex-008-CalculoSalario.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\Ex-008-CalculoSalario.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\Ex-008-CalculoSalario.genruntimeconfig.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-008-CalculoSalario\Ex-008-CalculoSalario\obj\Debug\net6.0\ref\Ex-008-CalculoSalario.dll
