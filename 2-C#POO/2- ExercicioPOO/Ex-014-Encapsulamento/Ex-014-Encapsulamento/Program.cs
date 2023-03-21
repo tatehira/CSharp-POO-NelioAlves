@@ -22,9 +22,14 @@ namespace Ex_014_Encapsulamento
             assim, ele não poderá ser acessado por outra classe, evitando alteração indevida*/
             #endregion Explicação
 
-           Produto p = new Produto("TV", 500.00, 10);
+            string produto = "TV";
+            double valor = 500.00;
+            int qnt = 10;
 
-            p.SetNome("TV QLED"); // setando valores na instancia privada encapsulada
+            Produto p = new Produto(produto, valor, qnt);
+
+            // setando valores na instancia privada encapsulada
+            p.SetNome("TV QLED"); 
 
             // Chamandos os campos
             Console.WriteLine(p.GetNome()); 
