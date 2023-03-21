@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\bin\Debug\net6.0\Ex-014-Encapsulamento.exe
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\bin\Debug\net6.0\Ex-014-Encapsulamento.deps.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\bin\Debug\net6.0\Ex-014-Encapsulamento.runtimeconfig.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\bin\Debug\net6.0\Ex-014-Encapsulamento.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\bin\Debug\net6.0\Ex-014-Encapsulamento.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\Ex-014-Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\Ex-014-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\Ex-014-Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\Ex-014-Encapsulamento.AssemblyInfo.cs
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\Ex-014-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\Ex-014-Encapsulamento.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\refint\Ex-014-Encapsulamento.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\Ex-014-Encapsulamento.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\Ex-014-Encapsulamento.genruntimeconfig.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-014-Encapsulamento\Ex-014-Encapsulamento\obj\Debug\net6.0\ref\Ex-014-Encapsulamento.dll
