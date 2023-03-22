@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\Ex-017-ExercicioContabancaria.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\Ex-017-ExercicioContabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\Ex-017-ExercicioContabancaria.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\Ex-017-ExercicioContabancaria.AssemblyInfo.cs
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\Ex-017-ExercicioContabancaria.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\bin\Debug\net6.0\Ex-017-ExercicioContabancaria.exe
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\bin\Debug\net6.0\Ex-017-ExercicioContabancaria.deps.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\bin\Debug\net6.0\Ex-017-ExercicioContabancaria.runtimeconfig.json
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\bin\Debug\net6.0\Ex-017-ExercicioContabancaria.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\bin\Debug\net6.0\Ex-017-ExercicioContabancaria.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\Ex-017-ExercicioContabancaria.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\refint\Ex-017-ExercicioContabancaria.dll
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\Ex-017-ExercicioContabancaria.pdb
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\Ex-017-ExercicioContabancaria.genruntimeconfig.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\Ex-017-ExercicioContabancaria\Ex-017-ExercicioContabancaria\obj\Debug\net6.0\ref\Ex-017-ExercicioContabancaria.dll
