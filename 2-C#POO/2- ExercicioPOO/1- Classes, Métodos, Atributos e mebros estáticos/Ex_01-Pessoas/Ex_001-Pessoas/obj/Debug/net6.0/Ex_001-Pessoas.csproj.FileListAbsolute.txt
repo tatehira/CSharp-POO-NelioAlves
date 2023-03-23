@@ -1,0 +1,30 @@
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas.exe
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas.deps.json
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas.runtimeconfig.json
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas.dll
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas.pdb
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.csproj.AssemblyReference.cache
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.AssemblyInfoInputs.cache
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.AssemblyInfo.cs
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.csproj.CoreCompileInputs.cache
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.dll
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/refint/Ex_001-Pessoas.dll
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.pdb
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.genruntimeconfig.cache
+C:/Users/wendrew.nick/Documents/1- Nick Arquivos/C# - POO/Ex_001-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/ref/Ex_001-Pessoas.dll
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas.deps.json
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas.runtimeconfig.json
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas.dll
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/ref/Ex_001-Pessoas.dll
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/bin/Debug/net6.0/Ex_001-Pessoas.pdb
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.csproj.AssemblyReference.cache
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.AssemblyInfoInputs.cache
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.AssemblyInfo.cs
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.csproj.CoreCompileInputs.cache
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.dll
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/ref/Ex_001-Pessoas.dll
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.pdb
+/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/Debug/net6.0/Ex_001-Pessoas.genruntimeconfig.cache
