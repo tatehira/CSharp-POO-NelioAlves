@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Ex-013-CalculadoraAPI.props" />
-</Project>

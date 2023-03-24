@@ -1,0 +1,5 @@
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3- ComportamentoMemoria,arrays e listas\Ex-018-TiposReferenciasEvalor\obj\Debug\net7.0\Ex-018-TiposReferenciasEvalor.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3- ComportamentoMemoria,arrays e listas\Ex-018-TiposReferenciasEvalor\obj\Debug\net7.0\Ex-018-TiposReferenciasEvalor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3- ComportamentoMemoria,arrays e listas\Ex-018-TiposReferenciasEvalor\obj\Debug\net7.0\Ex-018-TiposReferenciasEvalor.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3- ComportamentoMemoria,arrays e listas\Ex-018-TiposReferenciasEvalor\obj\Debug\net7.0\Ex-018-TiposReferenciasEvalor.AssemblyInfo.cs
+C:\Users\wendrew.nick\Music\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3- ComportamentoMemoria,arrays e listas\Ex-018-TiposReferenciasEvalor\obj\Debug\net7.0\Ex-018-TiposReferenciasEvalor.csproj.CoreCompileInputs.cache
