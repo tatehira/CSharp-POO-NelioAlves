@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\bin\Debug\net6.0\Ex-020-Nullable.exe
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\bin\Debug\net6.0\Ex-020-Nullable.deps.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\bin\Debug\net6.0\Ex-020-Nullable.runtimeconfig.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\bin\Debug\net6.0\Ex-020-Nullable.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\bin\Debug\net6.0\Ex-020-Nullable.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\Ex-020-Nullable.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\Ex-020-Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\Ex-020-Nullable.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\Ex-020-Nullable.AssemblyInfo.cs
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\Ex-020-Nullable.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\Ex-020-Nullable.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\refint\Ex-020-Nullable.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\Ex-020-Nullable.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\Ex-020-Nullable.genruntimeconfig.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Nullable\Ex-020-Nullable\obj\Debug\net6.0\ref\Ex-020-Nullable.dll
