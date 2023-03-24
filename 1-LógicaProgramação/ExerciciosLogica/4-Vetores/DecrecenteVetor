@@ -1,0 +1,28 @@
+internal class Exercicio
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Numeros: Descrescente e Crescente! ");
+        Console.ReadLine();
+        Console.Clear();
+
+        int n1, n2;
+
+        string[] vetor = Console.ReadLine().Split(' ');
+        n1 = int.Parse(vetor[0]);
+        n2 = int.Parse(vetor[1]);
+
+        while (n1 != n2)
+        {
+            if (n1 < n2)
+            {
+                Console.Write("Numeros em ordem CRESCENTE! ");
+            }
+            else
+            {
+                Console.Write("Numeros em ordem DESCRECENTE! ");
+            }
+            break;
+        }
+    }
+}

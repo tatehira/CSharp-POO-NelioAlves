@@ -8,24 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/nick/.nuget/packages/": {}
+    "C:\\Users\\wendrew.nick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/Ex_001-Pessoas.csproj",
+      "projectUniqueName": "C:\\Users\\wendrew.nick\\Documents\\Lightshot\\CursoBasicoCSharp\\2-C#POO\\2- ExercicioPOO\\1-Class-Meth-Atributes-Mebers-Estatic\\Ex_01-Pessoas\\Ex_001-Pessoas\\Ex_001-Pessoas.csproj",
       "projectName": "Ex_001-Pessoas",
-      "projectPath": "/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/Ex_001-Pessoas.csproj",
-      "packagesPath": "/home/nick/.nuget/packages/",
-      "outputPath": "/home/nick/Documents/Estudos/CursoBasicoCSharp/2-C#POO/2- ExercicioPOO/Ex_01-Pessoas/Ex_001-Pessoas/obj/",
+      "projectPath": "C:\\Users\\wendrew.nick\\Documents\\Lightshot\\CursoBasicoCSharp\\2-C#POO\\2- ExercicioPOO\\1-Class-Meth-Atributes-Mebers-Estatic\\Ex_01-Pessoas\\Ex_001-Pessoas\\Ex_001-Pessoas.csproj",
+      "packagesPath": "C:\\Users\\wendrew.nick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wendrew.nick\\Documents\\Lightshot\\CursoBasicoCSharp\\2-C#POO\\2- ExercicioPOO\\1-Class-Meth-Atributes-Mebers-Estatic\\Ex_01-Pessoas\\Ex_001-Pessoas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/nick/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\wendrew.nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\wendrew.nick\\Documents\\Projetos\\LBR.IT\\Biblioteca\\Interno-Libs-Base": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +52,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,282 @@
+************************
+==Estrutura Sequencial==
+************************
+	Operadores aritmeticos:
+	+
+	-
+	*
+	/
+	% (resto da div: ex: 14%2=2)
+
+	Precedencia: 
+		1- * / % (quando possui sinais com mesma precedencia na mesma equação, só resolver da esquerda para direita)
+
+		2- + -
+
+		3- Saida de dados
+			
+			Sem quebra de linha:
+				- Console.Write(" Ola"); (frase na mesma linha)
+
+				- Console.WriteLine(" lá"); (em baixo)
+
+			OBS: Toda vez que o Console.ReadLine é chamado, ele vem transformando em STRING
+
+
+	4- Arredondamento
+		double numero = 10.1131
+		Console.WriteLine(x);
+		Console.WriteLine(numero.ToString("F2"));
+			(Cada numero apos o F siginifica a qnt
+				de casas decimais)
+
+	5- Concatenacao
+		usado: elemento1 + elemento2 +
+		Console.WriteLine("O troco é " + numero.ToString("F2") + " Reais! ");
+
+	7- Entrada de dados
+		int n1 = Console.ReadLine();
+			<Como o console.ReadLine transforma em string, vamos transformar de volta em INT>
+		int n1 = int.Parse(Console.ReadLine());
+
+		Comando SPLIT; [VETOR]
+			- Retorna uma matriz de cadeia de caracteres que contém as subcadeias de caracteres nesta instância delimitadas por elementos de uma cadeia de caracteres especificada ou da matriz de caracteres Unicode.
+			- Se baseia em espaços em branco, ex: rosa azul branco
+			
+			string[] NomeVetor = VariavelComValor.Split(' ');
+				- Ele guarda varios valores em sub variaveis, organizando em posições.
+
+			string[] NomeVetor = VariavelComValor.Split(' ');
+			string rosa = NomeVetor[0];
+			string azul = NomeVetor[1];
+				- Fazendo isso acima, voce está mostando como receber essa subs variaveis
+
+			Para escrever direto:
+			string[] NomeVetor = Console.ReadLine().Split(' ');
+
+	8 - Funcoes Matematicas
+			a = Math.Sqrt(x); 'Variavel A Recebe raiz Quadrada de X'
+			a = Math.Pow(x, y); 'A = resultado de X elevado a Y'
+			s = Math.Abs(x); 'A = valor absoluto de X' (numero sem sinal)
+
+			Exercicio Resolvido: ex: Calcular o valor da area do terreno com 
+			a entrada: largura, comprimento e valor do M²
+
+			Exercicio 2: calculo   
+			Saida: Area, Perimetro, diagonal com 4 casas decimais
+			Entrada: Base e altura
+
+***************************
+== Estrutura Condicional ==
+****************************
+	- Expressão comparativa:
+	-----------------------
+		> maior
+		< Menor
+		>= Maior ou Igual
+		<= Menor ou Igual
+		== Exatamente igual
+		!= Diferente
+
+	- Expressoes Lógicas
+	--------------------
+		&& E
+		|| OU 
+		! Não (o não, sempre dará o oposto da solucao final
+				ex: Não True = false)
+
+	- Estrutura Condicional
+	-----------------------
+		if (condicao) {
+			comando1
+			comando2
+		}
+		else{
+			comando3
+			comando4
+		} 
+		//Caso queira usar mais de 2 condicoes, deve-se usar o
+		//if Else dentro do else aberto
+
+		Forma mais legivel:
+		if (Condicao) 
+		{
+			comando1
+		}
+		else if(condicao)
+		{
+			comando
+		}
+		else if(condicao)
+		{
+			comando
+		}
+
+	- Switch Case (caso)
+	--------------
+		Switch (Expressao) 
+		{
+			Case Valor:
+				comando
+				break;
+			case Valor2:
+				comando
+				break;
+			default:
+			comando
+			break;
+		}
+
+******************************
+--- Estrutura de repeticao ---
+******************************
+	- Enquanto:
+	------------
+		while ()
+		{
+
+		}
+
+	- Para 
+	--------
+	inicio: Execulta somente na primeira vez
+	condicao: V ou F
+	incremento: Executa toda vez dps de voltar
+
+		 for (inicio ; condicao ; incremento)
+		 {
+		 	comando1
+		 	comando2
+		 }
+		 	-------------
+		 		fim = Console.ReadLine()
+
+		 		for (int incio=1; inicio <= fim; inicio++)
+		 		{
+		 			Console.WriteLine("Hello! ")
+		 		}
+		 		------------------------------
+		 			Console.Write("Qual tabuada deseja ver? ");
+					int num = int.Parse(Console.ReadLine());
+					Console.Clear();
+
+					int contador, multiplicador;
+					contador = 0;
+					multiplicador= 1;
+
+					for (int i = 0; i < 10; i++)
+					{
+					    contador ++;
+					    multiplicador = num * contador;
+
+					    Console.WriteLine(+ contador + " X " + num + " = " + multiplicador);
+					}
+
+
+	- FAÇA-ENQUANTO
+	----------------
+	do
+	{
+		comando
+	} while (condicao);
+
+	(Executa a primeira estrutura independente de tudo
+		e testa se a condicao é verdadeira no final, caso
+		seja verdadeira, ela faz novamente! )
+
+**************************
+--- Vetores ou Arranjos---
+**************************
+	- Correspode a uma estrutura:
+		-> Indexada: Sao acessadas por meios de indices
+		-> Unidimensional: Uma dimensao
+		-> Homogenea: todos os dados sao do mesmo tipo
+
+	- Como cria um vetor?
+		int [] A;
+		double [] B;
+		string [] C;
+
+	- Como instanciar um vetor?
+		A = new int[10]; (foi alocado 10 espacos na memoria do vetor)
+		B = new double[5]; (foi alocado 5 espacos na memoria do vetor)
+		C new string [8]; (foi alocado 8 espacos na memoria do vetor)
+
+	- Como acessar os elementos do vetor?
+		- A[3] = 10; ("Acessar o vetor A na posicao 3 e colocar o valor 10");
+
+		for (int i=0; i<5; i++)
+		{
+			vetor[i] = i + 10;
+		}
+
+	- Foreach (Para-Cada)
+	----------------------
+		- Quando precisar percorrer todos os 
+		elemtnos de uma coleção
+		- Para cada elemento, faça:
+
+			foreach (ParaCara in ElementoDoVetor)
+			{
+				faça
+			}
+
+			foreach (string elemento in vet)
+			{
+				Console.WriteLine(Voce digitou: elemento)
+			}
+
+			//elemento vce que cria no momento 
+
+==============
+-- Matrizes --
+==============
+	- Arranjos Bidimensionais 
+	- Em C#, a primeira posicao é 0,0(linha, coluna)
+	- deve-se alocar previamente antes de utilizar. Quando alocado, sua quant. é fixa
+
+	Como criar uma matriz:
+		- double[,] Nome; (sem linhas e colunas declaradas;)
+
+	Como instanciar uma matriz:
+		- Nome = new double[3, 4]; (linhas, colunas)
+
+	Como acessar os elementos:
+		- nome[1, 3] = 10;
+			- coloque o 10 na linha 1 e coluna 3
+
+	- Sempre sar 2 estruturas for, uma para linhas e uma para colunas
+
+		EX: 
+		string[,] NomeVetor = new string[2, 2];
+
+		for (int linha = 0; linha < 2; linha ++)
+		{
+			for (int coluna = 0; coluna < 2; coluna++)
+			{
+				NomeVetor[linhas, colunas] = console.ReadLine();
+			}
+		}
+
+
+		======================================================
+		            String[,] Matriz = new string[2, 2];
+
+            for (int linha = 0; linha < 2; linha++)
+            {
+                string[] vetor = Console.ReadLine().Split(' ');
+
+                for (int coluna = 0; coluna < 2; coluna++)
+                {
+                    Matriz[linha, coluna] = vetor[coluna];
+                }
+            }
+
+            for (int linha = 0; linha < 2; linha++)
+            {
+                for (int coluna = 0; coluna < 2; coluna++)
+                {
+                    Console.WriteLine(Matriz[linha, coluna] + " ");
+                }
+                Console.WriteLine();
+            }
