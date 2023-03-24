@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\bin\Debug\net6.0\Ex-020-Vetores.exe
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\bin\Debug\net6.0\Ex-020-Vetores.deps.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\bin\Debug\net6.0\Ex-020-Vetores.runtimeconfig.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\bin\Debug\net6.0\Ex-020-Vetores.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\bin\Debug\net6.0\Ex-020-Vetores.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\Ex-020-Vetores.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\Ex-020-Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\Ex-020-Vetores.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\Ex-020-Vetores.AssemblyInfo.cs
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\Ex-020-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\Ex-020-Vetores.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\refint\Ex-020-Vetores.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\Ex-020-Vetores.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\Ex-020-Vetores.genruntimeconfig.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-020-Vetores\Ex-020-Vetores\obj\Debug\net6.0\ref\Ex-020-Vetores.dll
