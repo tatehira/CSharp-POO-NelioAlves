@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            int Quartos = 10;
+            Dates Date = new Dates();
+            Date.dates();
         }
     }
 }
