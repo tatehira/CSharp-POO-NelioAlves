@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\bin\Debug\net6.0\Ex-021-ExVetores.exe
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\bin\Debug\net6.0\Ex-021-ExVetores.deps.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\bin\Debug\net6.0\Ex-021-ExVetores.runtimeconfig.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\bin\Debug\net6.0\Ex-021-ExVetores.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\bin\Debug\net6.0\Ex-021-ExVetores.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\Ex-021-ExVetores.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\Ex-021-ExVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\Ex-021-ExVetores.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\Ex-021-ExVetores.AssemblyInfo.cs
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\Ex-021-ExVetores.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\Ex-021-ExVetores.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\refint\Ex-021-ExVetores.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\Ex-021-ExVetores.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\Ex-021-ExVetores.genruntimeconfig.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-021-ExVetores\Ex-021-ExVetores\obj\Debug\net6.0\ref\Ex-021-ExVetores.dll
