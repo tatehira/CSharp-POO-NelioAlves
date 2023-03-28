@@ -10,7 +10,17 @@ namespace Ex_022_Exercicio2Vetores
     {
         public string Name { get; set; }
         public string Email { get; set; }
-        public int Rooms { get; set; }
-        public int Rent { get; set; }
+        public int NumberRooms { get; private set; }
+
+        public void quarto(int numberRooms)
+        {
+            NumberRooms = numberRooms;
+
+        }
+
+        public override string ToString()
+        {
+            return $"Nome : {Name}, E-Mail: {Email}, Quarto: {NumberRooms}";
+        }
     }
 }
