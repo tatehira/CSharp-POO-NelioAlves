@@ -1,0 +1,2 @@
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-023-ModificadoresParametros\Ex-023-ModificadoresParametros\obj\Debug\net6.0\Ex-023-ModificadoresParametros.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-023-ModificadoresParametros\Ex-023-ModificadoresParametros\obj\Debug\net6.0\Ex-023-ModificadoresParametros.GeneratedMSBuildEditorConfig.editorconfig
