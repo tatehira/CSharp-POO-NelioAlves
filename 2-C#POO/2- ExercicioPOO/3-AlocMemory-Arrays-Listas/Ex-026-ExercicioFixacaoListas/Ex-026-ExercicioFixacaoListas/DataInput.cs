@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -55,8 +56,15 @@ namespace Ex_026_ExercicioFixacaoListas
 
                         obj.Register(id, nome, salary);
                         empoyeerList.Add(obj);
+
+                        Console.WriteLine();
+
+                        Console.WriteLine("Press [ENTER] for continue...");
+                        Console.Write("");
+                        
                         Console.ReadKey();
                         Console.Clear();
+                        Console.WriteLine();
                     }
                     else if (id < 1 || id > 100)
                     {
@@ -75,11 +83,57 @@ namespace Ex_026_ExercicioFixacaoListas
                     Console.WriteLine(l);
                 }
 
-                Console.Write("Enter the employee ID that will have salary increase: ");
-                var FindId = Console.ReadLine();
-                empoyeerList.Find(FindId);
-            }
+                Console.Write("Want to increase salary for employee?  { Y / N }: ");
+                char increase = char.Parse(Console.ReadLine());
 
+                if (increase == 'Y' || increase == 'y')
+                {
+                    Console.Clear();
+                    Console.Write("Enter the employee ID that will have salary increase: ");
+                    int selectId = int.Parse(Console.ReadLine());
+                    Console.WriteLine();
+
+                    List<int> idEmployeeList = empoyeerList.Select(x => x.Id).ToList();
+
+                    if (idEmployeeList.Contains(selectId))
+                    {
+                        Console.Write("Write the '%' for salary increase amount: ");
+                        int UpSalary = int.Parse(Console.ReadLine());
+
+                        Console.Clear();
+                        Console.WriteLine();
+                        Console.Write("Waiting for update ");
+
+                        for (int i = 1; i <= 3; i++)
+                        {
+                            Console.Write(". ");
+                            Thread.Sleep(500);
+                        }
+
+                        Console.WriteLine();
+                        Console.Write("Press [ENTER] to view the salary ... ");
+                        Console.WriteLine();
+                        Console.ReadKey();
+
+                        foreach (var l in empoyeerList)
+                        {
+                            Console.WriteLine(l);
+                        }
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("Sorry! user not found.");
+                    }
+                }
+
+                else
+                {
+                    Console.Clear();
+                    Console.WriteLine("Thansk for consulte!");
+                    Console.ReadKey();
+                }
+            }
         }
     }
 }

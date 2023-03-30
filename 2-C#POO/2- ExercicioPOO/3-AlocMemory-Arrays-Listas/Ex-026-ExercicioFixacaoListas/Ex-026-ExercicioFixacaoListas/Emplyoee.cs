@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace Ex_026_ExercicioFixacaoListas
 {
-    internal class Emplyoee
+    public class Emplyoee
     {
-        private int Id { get; set; }
-        private string Name { get; set; }
-        private double Salary { get; set; }
-        
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public double Salary { get; set; }
+
+        public double salary(double UpSalary)
+        {
+            return Salary * (UpSalary / 100);
+        }
+
         public void Register(int id, string name, double salary)
         {
             Id = id;
@@ -19,9 +24,14 @@ namespace Ex_026_ExercicioFixacaoListas
             Salary = salary;
         }
 
+        public void Subs(List<Emplyoee> empoyeerList, int SelectId, double UpSalary)
+        {
+            empoyeerList[SelectId] = UpSalary;
+        }
+
         public override string ToString()
         {
-            return $"->Id {Id} \n-> Name: {Name} \n-> Salary: {Salary}";
+            return $"-> Id:{Id} \n-> Name:{Name} \n-> Salary:{Salary}\n ---------------------\n";
         }
     }
     
