@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\bin\Debug\net6.0\Ex-025-Listas.exe
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\bin\Debug\net6.0\Ex-025-Listas.deps.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\bin\Debug\net6.0\Ex-025-Listas.runtimeconfig.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\bin\Debug\net6.0\Ex-025-Listas.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\bin\Debug\net6.0\Ex-025-Listas.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\Ex-025-Listas.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\Ex-025-Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\Ex-025-Listas.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\Ex-025-Listas.AssemblyInfo.cs
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\Ex-025-Listas.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\Ex-025-Listas.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\refint\Ex-025-Listas.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\Ex-025-Listas.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\Ex-025-Listas.genruntimeconfig.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\3-AlocMemory-Arrays-Listas\Ex-025-Listas\Ex-025-Listas\obj\Debug\net6.0\ref\Ex-025-Listas.dll
