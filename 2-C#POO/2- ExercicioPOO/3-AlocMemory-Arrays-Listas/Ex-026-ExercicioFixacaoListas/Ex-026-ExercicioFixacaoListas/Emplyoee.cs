@@ -12,9 +12,9 @@ namespace Ex_026_ExercicioFixacaoListas
         public string Name { get; set; }
         public double Salary { get; set; }
 
-        public double salary(double UpSalary)
+        public void salary(double UpSalary)
         {
-            return Salary * (UpSalary / 100);
+            Salary += Salary * (UpSalary / 100.0);
         }
 
         public void Register(int id, string name, double salary)
@@ -22,11 +22,6 @@ namespace Ex_026_ExercicioFixacaoListas
             Id = id;
             Name = name;
             Salary = salary;
-        }
-
-        public void Subs(List<Emplyoee> empoyeerList, int SelectId, double UpSalary)
-        {
-            empoyeerList[SelectId] = UpSalary;
         }
 
         public override string ToString()
