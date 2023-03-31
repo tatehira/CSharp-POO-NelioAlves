@@ -118,7 +118,8 @@ namespace Ex_026_ExercicioFixacaoListas
                         foreach (Emplyoee employee in empoyeerList)
                         {
                             employee.salary(UpSalary);
-                            Console.WriteLine("{0}: R${1}", employee.Name, employee.Salary);
+                            Console.WriteLine("The new Salary: {0}: R${1}", employee.Name, employee.Salary);
+                            Console.ReadLine();
                         }
 
                     }
