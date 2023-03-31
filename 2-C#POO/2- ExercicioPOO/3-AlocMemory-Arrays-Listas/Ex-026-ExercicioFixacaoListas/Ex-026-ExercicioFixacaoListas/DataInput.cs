@@ -41,7 +41,7 @@ namespace Ex_026_ExercicioFixacaoListas
                              
                 for (int i = 1; i <= Qnt ; i++)
                 {
-                    Emplyoee obj = new Emplyoee(); // Created obj
+                    Emplyoee objEmployee = new Emplyoee(); // Created obj
                     Console.Clear();
 
                     Console.Write("Write the ID: ");
@@ -55,8 +55,8 @@ namespace Ex_026_ExercicioFixacaoListas
                         Console.Write("Write the salary: ");
                         double salary = double.Parse(Console.ReadLine());
 
-                        obj.Register(id, name, salary);
-                        empoyeerList.Add(obj);
+                        objEmployee.Register(id, name, salary);
+                        empoyeerList.Add(objEmployee);
 
                         Console.WriteLine();
 
@@ -118,10 +118,13 @@ namespace Ex_026_ExercicioFixacaoListas
 
                         foreach (Emplyoee employeeRead in empoyeerList)
                         {
-                            employeeRead.salary(UpSalary);
-                            Console.WriteLine("The new Salary: {0}: R${1}", employeeRead.Name, employeeRead.Salary);
-                            Console.ReadLine();
+                            if (IdEmployeeList.Contains(SelectIdForUpdate))
+                            {
+                                employeeRead.salary(UpSalary);
+                                Console.WriteLine("The Salary: {0}: R${1}", employeeRead.Name, employeeRead.Salary);
+                            }
                         }
+                        Console.ReadKey();
                     }
                     else
                     {
