@@ -115,16 +115,11 @@ namespace Ex_026_ExercicioFixacaoListas
                         Console.WriteLine();
                         Console.ReadKey();
 
-                        foreach (Emplyoee f in empoyeerList)
+                        foreach (Emplyoee employee in empoyeerList)
                         {
-                            f.salary(UpSalary);
-                            Console.WriteLine("{0}: R${1}", f.Salary);
+                            employee.salary(UpSalary);
+                            Console.WriteLine("{0}: R${1}", employee.Name, employee.Salary);
                         }
-
-                        //foreach (var l in empoyeerList)
-                        //{
-                        //    Console.WriteLine(l);
-                        //}
 
                     }
                     else
