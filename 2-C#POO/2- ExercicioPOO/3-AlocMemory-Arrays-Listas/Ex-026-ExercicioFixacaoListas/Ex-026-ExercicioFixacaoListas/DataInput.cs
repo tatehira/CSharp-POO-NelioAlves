@@ -11,24 +11,24 @@ namespace Ex_026_ExercicioFixacaoListas
     {
         public void input()
         {
-            List<Emplyoee> empoyeerList = new List<Emplyoee>(); //List
+            List<Emplyoee> empoyeerList = new List<Emplyoee>(); //Created List
 
             Console.WriteLine("=======================================");
             Console.WriteLine("  R E G I S T E R  - E M P L O Y O E E ");
             Console.WriteLine("=======================================");
 
             Console.Write("Do you is in th program. Do you wish to continue? ( Y / N ): ");
-            char Select = char.Parse(Console.ReadLine().ToUpper());
+            char ContinueToProgram = char.Parse(Console.ReadLine().ToUpper());
             Console.WriteLine();
             Console.Clear();
             
-            if (Select == 'N')
+            if (ContinueToProgram == 'N')
             {
                 Console.Clear();
                 Console.Write("Thanks! ");
                 Console.ReadKey();
             }
-            else if (Select != 'Y' && Select != 'N')
+            else if (ContinueToProgram != 'Y' && ContinueToProgram != 'N')
             {
                 Console.Clear();
                 Console.Write("Error! Write one string valid.");
@@ -41,20 +41,21 @@ namespace Ex_026_ExercicioFixacaoListas
                              
                 for (int i = 1; i <= Qnt ; i++)
                 {
-                    Emplyoee obj = new Emplyoee(); // obj
+                    Emplyoee obj = new Emplyoee(); // Created obj
                     Console.Clear();
 
                     Console.Write("Write the ID: ");
                     int id = int.Parse(Console.ReadLine());
+
                     if (id > 0 && id <= 100)
                     {
-                        Console.Write("Write the name for employee: ");
-                        string nome = Console.ReadLine();
+                        Console.Write("Write the name: ");
+                        string name = Console.ReadLine();
 
                         Console.Write("Write the salary: ");
                         double salary = double.Parse(Console.ReadLine());
 
-                        obj.Register(id, nome, salary);
+                        obj.Register(id, name, salary);
                         empoyeerList.Add(obj);
 
                         Console.WriteLine();
@@ -78,24 +79,24 @@ namespace Ex_026_ExercicioFixacaoListas
                     }
                 }
 
-                foreach (var l in empoyeerList)
+                foreach (var readList in empoyeerList)
                 {
-                    Console.WriteLine(l);
+                    Console.WriteLine(readList);
                 }
 
                 Console.Write("Want to increase salary for employee?  { Y / N }: ");
-                char increase = char.Parse(Console.ReadLine());
+                char Increase = char.Parse(Console.ReadLine());
 
-                if (increase == 'Y' || increase == 'y')
+                if (Increase == 'Y' || Increase == 'y')
                 {
                     Console.Clear();
-                    Console.Write("Enter the employee ID that will have salary increase: ");
-                    int selectId = int.Parse(Console.ReadLine());
+                    Console.Write("Select the employee ID that will have salary increase: ");
+                    int SelectIdForUpdate = int.Parse(Console.ReadLine());
                     Console.WriteLine();
 
-                    List<int> idEmployeeList = empoyeerList.Select(x => x.Id).ToList();
+                    List<int> IdEmployeeList = empoyeerList.Select(x => x.Id).ToList();
 
-                    if (idEmployeeList.Contains(selectId))
+                    if (IdEmployeeList.Contains(SelectIdForUpdate))
                     {
                         Console.Write("Write the '%' for salary increase amount: ");
                         int UpSalary = int.Parse(Console.ReadLine());
@@ -115,13 +116,12 @@ namespace Ex_026_ExercicioFixacaoListas
                         Console.WriteLine();
                         Console.ReadKey();
 
-                        foreach (Emplyoee employee in empoyeerList)
+                        foreach (Emplyoee employeeRead in empoyeerList)
                         {
-                            employee.salary(UpSalary);
-                            Console.WriteLine("The new Salary: {0}: R${1}", employee.Name, employee.Salary);
+                            employeeRead.salary(UpSalary);
+                            Console.WriteLine("The new Salary: {0}: R${1}", employeeRead.Name, employeeRead.Salary);
                             Console.ReadLine();
                         }
-
                     }
                     else
                     {
