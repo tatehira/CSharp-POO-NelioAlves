@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Ex-029-Exercicio-02-Matriz",
+      "appliesTo": "Ex-029-Exercicio-02-Matriz/Ex-029-Exercicio-02-Matriz.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
