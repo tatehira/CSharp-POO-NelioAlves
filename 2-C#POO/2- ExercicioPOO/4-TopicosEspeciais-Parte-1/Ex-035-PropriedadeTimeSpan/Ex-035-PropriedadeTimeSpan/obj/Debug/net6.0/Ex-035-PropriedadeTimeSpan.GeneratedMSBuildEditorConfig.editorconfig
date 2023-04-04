@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ex_035_PropriedadeTimeSpan
+build_property.ProjectDir = C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-035-PropriedadeTimeSpan\Ex-035-PropriedadeTimeSpan\

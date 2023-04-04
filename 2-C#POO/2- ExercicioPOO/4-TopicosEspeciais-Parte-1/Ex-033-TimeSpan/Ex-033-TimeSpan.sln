@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-033-TimeSpan", "Ex-033-TimeSpan\Ex-033-TimeSpan.csproj", "{20ED5CF2-0812-4AAB-BBA2-0C4BB03BE805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20ED5CF2-0812-4AAB-BBA2-0C4BB03BE805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20ED5CF2-0812-4AAB-BBA2-0C4BB03BE805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20ED5CF2-0812-4AAB-BBA2-0C4BB03BE805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20ED5CF2-0812-4AAB-BBA2-0C4BB03BE805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92CC1E5D-34D0-49CB-8721-74C136972259}
+	EndGlobalSection
+EndGlobal
