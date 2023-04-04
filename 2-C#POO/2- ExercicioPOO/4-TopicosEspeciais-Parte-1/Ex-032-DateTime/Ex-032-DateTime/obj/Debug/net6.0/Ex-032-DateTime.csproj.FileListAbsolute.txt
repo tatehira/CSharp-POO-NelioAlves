@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\bin\Debug\net6.0\Ex-032-DateTime.exe
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\bin\Debug\net6.0\Ex-032-DateTime.deps.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\bin\Debug\net6.0\Ex-032-DateTime.runtimeconfig.json
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\bin\Debug\net6.0\Ex-032-DateTime.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\bin\Debug\net6.0\Ex-032-DateTime.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\Ex-032-DateTime.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\Ex-032-DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\Ex-032-DateTime.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\Ex-032-DateTime.AssemblyInfo.cs
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\Ex-032-DateTime.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\Ex-032-DateTime.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\refint\Ex-032-DateTime.dll
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\Ex-032-DateTime.pdb
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\Ex-032-DateTime.genruntimeconfig.cache
+C:\Users\wendrew.nick\Documents\Lightshot\CursoBasicoCSharp\2-C#POO\2- ExercicioPOO\4-TopicosEspeciais-Parte-1\Ex-032-DateTime\Ex-032-DateTime\obj\Debug\net6.0\ref\Ex-032-DateTime.dll
