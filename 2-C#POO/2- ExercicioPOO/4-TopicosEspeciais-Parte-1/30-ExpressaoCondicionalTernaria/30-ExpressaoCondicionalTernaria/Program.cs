@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            /*
+             * (condicao) ? true : false
+             * 
+             * ex: (2 > 4) ? 50 : 80 | = 80
+             */
         }
     }
 }
